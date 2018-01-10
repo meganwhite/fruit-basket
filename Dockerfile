@@ -1,4 +1,4 @@
-FROM python:2.7-slim
+FROM alpine
 
 WORKDIR /fruits-basket
 

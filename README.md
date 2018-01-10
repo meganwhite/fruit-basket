@@ -17,6 +17,6 @@ docker run fruits-basket
 
 ## Future development
 
-- Allow printing of non-text files
-- Correct singular vs. plural in existing files
-- Use the python runtime that is now shipped with this
+[ ] Allow printing of non-text files
+[ ] Correct singular vs. plural in existing files
+[ ] Get python so you can do data science
